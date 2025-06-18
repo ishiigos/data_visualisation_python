@@ -1,9 +1,9 @@
-# ----------------------------------------------------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------------------------------------------------
 # Level: Advanced
 # 🎯 Goal: Goal: Create a simple interactive web application with linked plots. This introduces the concept of dashboards. 
 # Dataset: Tips dataset (built-in in Plotly Express). 
 # Note: Dash requires running a small web server. Save this as app.py and run python app.py from your terminal. 
-# ----------------------------------------------------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------------------------------------------------
 
 from dash import Dash, html, dcc, callback, Output, Input
 import plotly.express as px
