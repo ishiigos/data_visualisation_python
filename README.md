@@ -20,9 +20,9 @@ A growing portfolio of Python-based data visualization projects — from basic p
 | 8   | Geospatial Choropleth Map | Advanced | Interactive US unemployment map using Folium and GeoJSON. |
 | 9   | Network Graph | Advanced | Force-directed graph of synthetic social connections with NetworkX. |
 | 10   | Interactive Dashboard | Advanced | Dash app analyzing restaurant tips using linked Plotly plots. |
-
 ---
 
+### Prerequisite installation
 ```bash
 pip install pandas matplotlib seaborn plotly scikit-learn networkx folium squarify
 ```
