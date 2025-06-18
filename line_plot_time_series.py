@@ -1,6 +1,6 @@
-"""
-Goal: Show trends over time. Data: Daily stock prices. Visualization: Line plot. 
-"""
+# ----------------------------------------------------------------------------------------------------------------------------------------------------
+# 🎯 Goal: Show trends over time. Data: Daily stock prices. Visualization: Line plot. 
+# ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 import matplotlib.pyplot as plt 
 import pandas as pd 

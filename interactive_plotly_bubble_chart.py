@@ -1,10 +1,9 @@
 import plotly.express as px
 import pandas as pd
 
-# --------------------------------------------
-# 🎯 GOAL: Visualize GDP, life expectancy, and population
-# using an interactive bubble chart.
-# --------------------------------------------
+# ---------------------------------------------------------------------------------------------
+# 🎯 GOAL: Visualize GDP, life expectancy, and population using an interactive bubble chart.                     
+# ---------------------------------------------------------------------------------------------
 
 def load_gapminder_data():
     """Try loading the built-in Gapminder dataset, else use dummy fallback."""

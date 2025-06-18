@@ -1,7 +1,7 @@
-"""
-Goal: Visualize the relationship between two continuous variables. Data: Simple synthetic data. 
-Visualization: Scatter plot. 
-"""
+# ----------------------------------------------------------------------------------------------------------------------------------------------------
+# 🎯 Goal: Visualize the relationship between two continuous variables. Data: Simple synthetic data. 
+# Visualization: Scatter plot. 
+# ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 import matplotlib.pyplot as plt 
 import numpy as np 

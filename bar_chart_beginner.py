@@ -1,7 +1,7 @@
-"""
-Goal: Compare quantities across different categories. Data: Sales data for different products. 
-Visualization: Bar chart. 
-"""
+# ----------------------------------------------------------------------------------------------------------------------------------------------------
+# 🎯 Goal: Compare quantities across different categories. Data: Sales data for different products. 
+# Visualization: Bar chart. 
+# ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 import matplotlib.pyplot as plt 
 import pandas as pd 
