@@ -1,2 +1,3 @@
-# data_visualisation_python
-Mini data visualization projects for portfolio using Python3
+# Data Visualization with Python
+
+Mini Data Visualization Projects for a Portfolio Using Python 3
